@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<EntityDescriptor xmlns="urn:oasis:names:tc:SAML:2.0:metadata" entityID="https://app.onelogin.com/saml/metadata/61651c56-b766-4cd3-a796-471e67dbc527">
+  <IDPSSODescriptor xmlns:ds="http://www.w3.org/2000/09/xmldsig#" protocolSupportEnumeration="urn:oasis:names:tc:SAML:2.0:protocol">
+    <KeyDescriptor use="signing">
+      <ds:KeyInfo xmlns:ds="http://www.w3.org/2000/09/xmldsig#">
+        <ds:X509Data>
+          <ds:X509Certificate>MIIGsTCCBJmgAwIBAgIUYKtefKaQxpiXhfcAFu3WOpBmCHQwDQYJKoZIhvcNAQEL
+BQAwgYkxCzAJBgNVBAYTAlVTMQswCQYDVQQIDAJDQTEUMBIGA1UEBwwLRm9zdGVy
+IENpdHkxHzAdBgNVBAoMFlNjYWxlIFZlbnR1cmUgUGFydG5lcnMxFTATBgNVBAsM
+DE9uZUxvZ2luIElkUDEfMB0GA1UEAwwWT25lTG9naW4gQWNjb3VudCAyOTYxMTAe
+Fw0yMTAxMjYxOTI4MzNaFw0yMjAxMjYxOTI4MzNaMIGJMQswCQYDVQQGEwJVUzEL
+MAkGA1UECAwCQ0ExFDASBgNVBAcMC0Zvc3RlciBDaXR5MR8wHQYDVQQKDBZTY2Fs
+ZSBWZW50dXJlIFBhcnRuZXJzMRUwEwYDVQQLDAxPbmVMb2dpbiBJZFAxHzAdBgNV
+BAMMFk9uZUxvZ2luIEFjY291bnQgMjk2MTEwggIiMA0GCSqGSIb3DQEBAQUAA4IC
+DwAwggIKAoICAQDj5SDJqtcc3wfsr6L7K7EQTpR0bmPaQlfka4bieGWIBOTT1Tw/
+vpjDaWelN74n7BdD35IrSsKXC7n+bOL5txyV3GKw10U1TY0AHzcZchqp2UK1Bn7Q
+f3chVRtN0owf7OC7/RA3qNSAmaEfe2qrQuSqpzG0OrC8t5GQwRXGXWDBi4Ab9nSG
+UINDH+ajCJYUhsbj0PP4waiB2hhGo1egwUSyGIRUy3qMBPw6V58xRU6mCnIfrV9R
+hbBfXpUulNRkoaPGz7a/mMrYwKIJHf2Wt7ejbZT/2XVf8uBc2ATth6Neg3Vfkkry
+Ep9Mc0+9FrqmtOSqlBJfrK76s7TrbzwXqVZ5sR87iPyb370juE+AUCQQvRDFylxQ
+eeenOPmCorgCw2HgLOReUgunpLSXldrRI6n4eYXwne7Hqq7V2obt7Md1E0d9Odfv
+FSHFbNJ5I02VirwLrV4VfFW1efUxT2J3SGMk/WzQHxfrvV3VjwOCWNT79vFk4txo
+vzmO+ziaTcJY2yN1Yi5MEUbCIld/iOjVqqJIhXTXCgufwwOyZP0bc2Fd8kV1P8Ao
+y2a5y/Sm3oQ7Pppo8H8PFCoCw/KBUY6j9kucIJaIxA4LlpW7OdUHhxC/XIBaECrz
+GRekmaSRHUVlz/sN/AEU9YBTlgJMfaotg4qAmOi8heYyWoB8CSu60jfbIwIDAQAB
+o4IBDTCCAQkwDAYDVR0TAQH/BAIwADAdBgNVHQ4EFgQUoAUsK7hetNV7qaa1CwhX
+PENMVukwgckGA1UdIwSBwTCBvoAUoAUsK7hetNV7qaa1CwhXPENMVumhgY+kgYww
+gYkxCzAJBgNVBAYTAlVTMQswCQYDVQQIDAJDQTEUMBIGA1UEBwwLRm9zdGVyIENp
+dHkxHzAdBgNVBAoMFlNjYWxlIFZlbnR1cmUgUGFydG5lcnMxFTATBgNVBAsMDE9u
+ZUxvZ2luIElkUDEfMB0GA1UEAwwWT25lTG9naW4gQWNjb3VudCAyOTYxMYIUYKte
+fKaQxpiXhfcAFu3WOpBmCHQwDgYDVR0PAQH/BAQDAgeAMA0GCSqGSIb3DQEBCwUA
+A4ICAQCFzSXO/V0qROw7LVI3i0qrZ7mwjB4toiBvgdvnXST0qM3opN91+kQGljwQ
+ll6OvRxJWdINWy/knOrEDU9bLm1yHjjaazyBHAneEC+jehNukxQo3/Vs9eVtNjb8
+JJepndchLTjJP37vRVFJ/CxQUwqidEgMIo9LdDr36O5YCxLcGIXtz09uWHu4upk9
+AJ+pYi7pzSmZrXC0cHAINrFzbk1L/12ge1eGJW+0XQH/KBc3hlyLNN925er/EfW/
+qk/ocp6LODrsqbxdutYuQ5VT2MoMlDOVFPVWXQ5qaKjmmCgssiWKQXpgY3+XxqW/
+di3M9NCUc0Bd/1cxmJbtmujomfGiRwUc5sxL2KukOGnLL7RxNklWmkcoGNlTUklU
+9XRz6Qvaj31onOg+prhZs5/u4zL/m5whTJpXQSwggiVBTwh28mj31JGVq2AOPc6U
+gYeNMtCalCAS+fKLpFqffV3BvzBiDy3gxky73cfJ9UMWC6ijiSkks6hSYxJnQOgE
+4zN4He26DerVfgt0qIJ4c4+CLwCVt4o+u7spq72TKc3fW2mhbzdJNFWpyD5HQ8Ap
+gWQ3irdepquCdtJfsYsb2bBkjr0ygvceexBBa4BOx1ilgU4KPTCLSQh9oqNEO7f0
+iNQMcciqcYrgBE6bOcTvaHylGt9BWEi5v2L6v+btIh4Bte9OSw==</ds:X509Certificate>
+        </ds:X509Data>
+      </ds:KeyInfo>
+    </KeyDescriptor>
+    <SingleLogoutService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-Redirect" Location="https://scalevp.onelogin.com/trust/saml2/http-redirect/slo/1349735"/>
+    
+      <NameIDFormat>urn:oasis:names:tc:SAML:1.1:nameid-format:emailAddress</NameIDFormat>
+    
+    <SingleSignOnService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-Redirect" Location="https://scalevp.onelogin.com/trust/saml2/http-redirect/sso/61651c56-b766-4cd3-a796-471e67dbc527"/>
+    <SingleSignOnService Binding="urn:oasis:names:tc:SAML:2.0:bindings:HTTP-POST" Location="https://scalevp.onelogin.com/trust/saml2/http-post/sso/61651c56-b766-4cd3-a796-471e67dbc527"/>
+    <SingleSignOnService Binding="urn:oasis:names:tc:SAML:2.0:bindings:SOAP" Location="https://scalevp.onelogin.com/trust/saml2/soap/sso/61651c56-b766-4cd3-a796-471e67dbc527"/>
+  </IDPSSODescriptor>
+</EntityDescriptor>
